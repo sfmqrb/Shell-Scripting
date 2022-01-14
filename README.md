@@ -1,3 +1,5 @@
 # Shell-Scripting
-My Geeky Attempts to learn more about shell scripting.
-Using this [tutorial](https://www.shellscript.sh)!
+My Geeky Attempts to work around with shell.
+
+refs:
+* [tutorial](https://www.shellscript.sh)
